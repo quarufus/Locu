@@ -23,12 +23,12 @@
 
 Για τη δημιουργία της πίστας έφτιαξα κάποιους απλούς όγκους στο blender (κύβο, καμπύλες, κολώνα) και έφτιαξα ένα παράδειγμα χάρτη στο unity. Στη συνέχεια χρησιμοποίησα αυτόν ον χάρτη ως είσοδο στον WFC ο οποίος κάθε φορά δημιουργεί μια διαφορετική πίστα βασισμένη στον χάρτη. Τον χαρακτήρα τον σχεδίασα και αυτόν στο blender και τον προγραμάτισα να κινείται με τα βελάκια στο ή με WASD όπως και να πηδάει με το Space Bar. Μετά προγραμμάτισα την κάμερα να ακολουθεί τον χαρακτήρα ώστε αυτος να είναι πάντα στο κέντρο της οθόνης.
 
-![alt text](https://github.com/quarufus/Locu/tree/main/my_report/images/1.png "")
-![alt text](https://github.com/quarufus/Locu/tree/main/my_report/images/1.png "")
+![alt text](https://github.com/quarufus/Locu/blob/main/my_report/images/3.png "")
+![alt text](https://github.com/quarufus/Locu/blob/main/my_report/images/4.png "")
 
 Τέλος προσέθεσα rigidbody στον χαρακτήρα ώστε να μπορεί να έχει μάζα (για το πήδημα) και να αλληλεπιδράει με το περιβάλλον. Επίσης έβαλα collision σε όλα τα assets όπως και υλικά για χρώμα και άλλες ιδιότητες. Ακόα προσέθεσα στη κάμερα τα απαραίτητα assets ώστε να έχει το εφέ gameboy.
 
-![alt text](https://github.com/quarufus/Locu/tree/main/my_report/images/1.png "")
+![alt text](https://github.com/quarufus/Locu/blob/main/my_report/images/1.png "")
 
 # 2nd Deliverable
 
