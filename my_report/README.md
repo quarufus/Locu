@@ -1,9 +1,10 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### First and Last Name: Timon Akira Pelster
+### University Registration Number: dpsd17085
+### GitHub Personal Profile: quarufus
+### Digital & Serious Games Personal Repository: Locu
+### Game URL: https://quarufus.github.io/Locu/
 
 # Introduction
 
