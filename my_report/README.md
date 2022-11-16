@@ -14,8 +14,8 @@
 Αποφάσισα να δημιουργήσω ένα παιχνίδι σε τρεις διαστάσεις γιατί ήθελα να δω πως θα μπορούσε να γίνει κάι τέτοιο. Το consept είναι οτι χαρακτήρας περιπλανιέται σε ένα κόσμο με πέτρινα ερείπια (κολώνες, τοίχους, πέτρες).
 
 Δουλειές που χρησιμοποίησα:
-- https://selfsame.itch.io/unitywfc
-- https://roguenoodle.itch.io/gbcamera-for-unity
+- unity-wave-function-collapse
+- GBCamera for Unity
 
 # 1st Deliverable
 
@@ -35,3 +35,5 @@
 
 
 # Sources
+- https://selfsame.itch.io/unitywfc
+- https://roguenoodle.itch.io/gbcamera-for-unity
